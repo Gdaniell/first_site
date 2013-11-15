@@ -1,0 +1,51 @@
+div {
+		height:400px;
+		background-size:cover;
+		margin: 20px;
+	}
+	.nz {
+		background-image: url(https://lh4.googleusercontent.com/itmTyTpD9d1l0Z7oxtikj0u5kXK7_Rt-nmswcC01IBR9=w1122-h414-p-no);
+		}
+	.xmas {
+		background-image: url(https://lh5.googleusercontent.com/24MMzICQmnaC1UDPnAVqAOolNCVk0BATnS3zYULj2CDZ=w1452-h440-p-no);
+
+	}
+	.m {
+		background-image: url(https://lh4.googleusercontent.com/p76luWDMEvqJ-Xdqb52zrYAm0ontccmdAoAAr4iWFXTz=w1286-h430-p-no);
+	}
+	.v {
+		background-image: url(https://lh4.googleusercontent.com/k4OeAAidJfYRrv2vCjzjc6thXN7kOgF_-wW9STYqatFK=w1082-h440-p-no);
+		color: #34373D;
+	}
+	.e {
+		background-image: url(https://lh4.googleusercontent.com/Yt48MopDnDp1DHeegSldmMdNPG_9A1z_4BEfke4LgZE7=w1248-h430-p-no);
+	}
+
+	.home{
+		background-image: url();
+	}
+	body {
+		background: #34373D;
+		color: white;
+	}
+	h1{
+		text-align: center;
+		font-family: 'Permanent Marker', cursive;
+		font-size: 70px;
+	}
+	h2{text-align: center;
+		font-family: 'Permanent Marker', cursive;
+		margin-top: -40px;
+	}
+	h3 {
+		font-family: 'Nothing You Could Do', cursive;
+		font-size: 40px;
+		margin-left: 10px;
+	}
+	p{
+		font-family: 'Nothing You Could Do', cursive;
+		font-size: 20px;
+		margin-top: -30px;
+		margin-left: 10px;
+	}
+	
